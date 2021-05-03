@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Reimbrusement/static/css/main.42dd34a0.chunk.css",
+    "main.js": "/Reimbrusement/static/js/main.68be2b9d.chunk.js",
+    "main.js.map": "/Reimbrusement/static/js/main.68be2b9d.chunk.js.map",
+    "runtime-main.js": "/Reimbrusement/static/js/runtime-main.81ea2d1c.js",
+    "runtime-main.js.map": "/Reimbrusement/static/js/runtime-main.81ea2d1c.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/Reimbrusement/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.8fe50e66.chunk.js": "/Reimbrusement/static/js/2.8fe50e66.chunk.js",
+    "static/js/2.8fe50e66.chunk.js.map": "/Reimbrusement/static/js/2.8fe50e66.chunk.js.map",
+    "static/js/3.dea08403.chunk.js": "/Reimbrusement/static/js/3.dea08403.chunk.js",
+    "static/js/3.dea08403.chunk.js.map": "/Reimbrusement/static/js/3.dea08403.chunk.js.map",
+    "index.html": "/Reimbrusement/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/Reimbrusement/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.42dd34a0.chunk.css.map": "/Reimbrusement/static/css/main.42dd34a0.chunk.css.map",
+    "static/js/2.8fe50e66.chunk.js.LICENSE.txt": "/Reimbrusement/static/js/2.8fe50e66.chunk.js.LICENSE.txt",
+    "static/media/Accepted.fd6c6bc7.svg": "/Reimbrusement/static/media/Accepted.fd6c6bc7.svg",
+    "static/media/pending.2b6c3f28.svg": "/Reimbrusement/static/media/pending.2b6c3f28.svg",
+    "static/media/rejected.643b10c5.svg": "/Reimbrusement/static/media/rejected.643b10c5.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.81ea2d1c.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.8fe50e66.chunk.js",
+    "static/css/main.42dd34a0.chunk.css",
+    "static/js/main.68be2b9d.chunk.js"
+  ]
+}
