@@ -1,0 +1,68 @@
+tr td{
+    font-size:16px;
+}
+.table-container{
+    padding: 15px;
+}
+.table-container>h5{
+    margin: 15px 0 25px 0;
+
+}
+th{
+    font-size: 16px;
+    color:#aaaaaa !important;
+}
+
+.accepted >p {
+    display: flex;
+    flex-direction: row;
+    width: 90px;
+    text-align: center;
+    padding: 5px;
+    background-color: #b1ffb1;
+    border-radius: 4px;
+}
+a{
+    display: flex;
+    flex-direction: row;
+    float: left;
+}
+a,p{
+    display: inline-block;
+}
+.rejected >p {
+    display: flex;
+    flex-direction: row;
+    width: 90px;
+    text-align: center;
+    padding: 5px;
+    background-color: #ffb3b3;
+    border-radius: 4px;
+}
+
+.pending >p {
+    display: flex;
+    flex-direction: row;
+    width: 90px;
+    text-align: center;
+    padding: 5px;
+    background-color: #fce1af;
+    border-radius: 4px;
+}
+.inactive{
+    display: none;
+}
+
+.active{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+    position:fixed;
+    top: 0;
+    z-index: 20;
+    cursor: pointer;
+    background-color: rgba(4,4,5,0.55);
+}
